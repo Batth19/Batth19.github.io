@@ -3,3 +3,7 @@ html
   border-top-style:dashed;
   background-color:cyan;
 }
+body
+{
+  color:green;
+}
